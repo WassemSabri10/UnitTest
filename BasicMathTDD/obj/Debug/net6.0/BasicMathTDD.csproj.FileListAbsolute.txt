@@ -1,0 +1,15 @@
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\bin\Debug\net6.0\BasicMathTDD.exe
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\bin\Debug\net6.0\BasicMathTDD.deps.json
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\bin\Debug\net6.0\BasicMathTDD.runtimeconfig.json
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\bin\Debug\net6.0\BasicMathTDD.dll
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\bin\Debug\net6.0\BasicMathTDD.pdb
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.csproj.AssemblyReference.cache
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.AssemblyInfoInputs.cache
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.AssemblyInfo.cs
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.csproj.CoreCompileInputs.cache
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.dll
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\refint\BasicMathTDD.dll
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.pdb
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\BasicMathTDD.genruntimeconfig.cache
+D:\Wassem\Visual Studio 2022\Projects\UnitTest\BasicMathTDD\obj\Debug\net6.0\ref\BasicMathTDD.dll
